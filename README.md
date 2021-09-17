@@ -1,4 +1,4 @@
-# CreativeCoin-CryptoToken-Blockchian
+# CreativeCoin-CryptoToken-Blockchain
 
 CreativeCoin is a CryptoToken made on a Blockchain which is written in Python using Flask web framework for connecting to web using APIs.
 
